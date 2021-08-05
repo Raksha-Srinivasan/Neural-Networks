@@ -1,1 +1,1 @@
-This is a Basic Neural Network project builtwith TensorFlow and Keras.
+This is a Basic Neural Network project built with TensorFlow and Keras.
